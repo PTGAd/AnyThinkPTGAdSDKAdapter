@@ -18,5 +18,6 @@ Pod::Spec.new do |s|
   s.source_files  = 'Classes/**/*.{h,m}' 
   s.framework     = 'UIKit'
   s.dependency 'AnyThinkiOS', '6.4.11'
+  s.dependency 'PTGAdFramework', '2.0.6'
   
 end
