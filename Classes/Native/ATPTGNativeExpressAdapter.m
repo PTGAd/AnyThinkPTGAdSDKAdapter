@@ -7,7 +7,7 @@
 
 #import "ATPTGNativeExpressAdapter.h"
 #import "ATPTGNativeExpressCustomEvent.h"
-#import <PTGAdSDK.h>
+#import <PTGAdSDK/PTGAdSDK.h>
 #import <objc/message.h>
 #import "ATPTGNativeRenderer.h"
 #import "ATPTGBiddingRequest.h"
