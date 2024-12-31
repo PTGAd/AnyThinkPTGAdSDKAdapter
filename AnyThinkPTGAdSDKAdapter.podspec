@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.author       = { "fancy" => "ptg_all@fancydigital.com.cn" }
   s.source       = { :git => 'https://github.com/PTGAd/AnyThinkPTGAdSDKAdapter.git', :tag => s.version }
   
-
+  s.static_framework = true
   s.ios.deployment_target = '13.0'
   s.source_files  = 'Classes/**/*.{h,m}' 
   s.framework     = 'UIKit'
