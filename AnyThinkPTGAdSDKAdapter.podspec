@@ -12,16 +12,16 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "fancy" => "ptg_all@fancydigital.com.cn" }
   s.source       = { :git => 'https://github.com/PTGAd/AnyThinkPTGAdSDKAdapter.git', :tag => s.version }
-  
+
   s.static_framework = true
   s.ios.deployment_target = '13.0'
-  s.source_files  = 'Classes/**/*.{h,m}' 
-  s.vendored_frameworks = [
-    'path_to/AnyThinkiOS/**/*.xcframework',
-    'path_to/PTGAdFramework/Frameworks/*.framework'
-  ]
+  s.vendored_frameworks = 'AnyThinkPTGAdSDKAdapter.framework'
   s.framework     = 'UIKit'
+  valid_archs = ['armv7', 'armv7s', 'x86_64', 'arm64']
+  s.xcconfig = {
+    'VALID_ARCHS' =>  valid_archs.join(' '),
+  }
   s.dependency 'AnyThinkiOS', '6.4.27'
-  s.dependency 'PTGAdFramework'
+  s.dependency 'PTGAdFramework', '2.0.9'
   
 end
