@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'AnyThinkPTGAdSDKAdapter'
-  s.version      = '6.4.27'
+  s.version      = '1.0.0'
   s.summary      = 'A simple library for FancyAd and AnyThinkPTGAdSDKAdapter.'
   
   s.description  = <<-DESC
