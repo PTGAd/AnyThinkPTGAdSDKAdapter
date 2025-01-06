@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'AnyThinkPTGAdSDKAdapter'
-  s.version      = '1.0.0'
+  s.version      = '1.0.1'
   s.summary      = 'A simple library for FancyAd and AnyThinkPTGAdSDKAdapter.'
   
   s.description  = <<-DESC
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => 'https://github.com/PTGAd/AnyThinkPTGAdSDKAdapter.git', :tag => s.version }
 
   s.static_framework = true
-  s.ios.deployment_target = '13.0'
+  s.ios.deployment_target = '11.0'
   s.vendored_frameworks = 'AnyThinkPTGAdSDKAdapter.framework'
   s.framework     = 'UIKit'
   valid_archs = ['armv7', 'armv7s', 'x86_64', 'arm64']
@@ -22,6 +22,6 @@ Pod::Spec.new do |s|
     'VALID_ARCHS' =>  valid_archs.join(' '),
   }
   s.dependency 'AnyThinkiOS', '6.4.27'
-  s.dependency 'PTGAdFramework', '2.0.9'
+  s.dependency 'PTGAdFramework', '2.1.0'
   
 end
