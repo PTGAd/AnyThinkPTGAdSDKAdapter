@@ -22,6 +22,6 @@ Pod::Spec.new do |s|
     'VALID_ARCHS' =>  valid_archs.join(' '),
   }
   s.dependency 'AnyThinkiOS', '6.4.27'
-  s.dependency 'PTGAdFramework', '2.2.0'
+  s.dependency 'PTGAdFramework', '2.2.10'
   
 end
