@@ -401,9 +401,13 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Headers/ATPSelfRenderDelegate.h</key>
+		<data>
+		bv2S/dxQjNZaW8z0fC3F7o/FCZ8=
+		</data>
 		<key>Headers/AnyThinkPTGAdSDKAdapter.h</key>
 		<data>
-		h+vR9yUMUk5G9shVtNIEyM21BuE=
+		mXRJUkk0VOB9R9vLARB1NgSw5f0=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -1536,15 +1540,26 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Headers/ATPSelfRenderDelegate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bv2S/dxQjNZaW8z0fC3F7o/FCZ8=
+			</data>
+			<key>hash2</key>
+			<data>
+			lgCqIY4UZxrFi53uSfT9jpiUkAgkt984VJDhx+nyIGs=
+			</data>
+		</dict>
 		<key>Headers/AnyThinkPTGAdSDKAdapter.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h+vR9yUMUk5G9shVtNIEyM21BuE=
+			mXRJUkk0VOB9R9vLARB1NgSw5f0=
 			</data>
 			<key>hash2</key>
 			<data>
-			/ihoWcN+BR9d0B68uDxyR0TG0N493cNpmBBrGOOiHVU=
+			SJkvx/oKjVNHX5zZGA5Jumd+Tnk6chGGAWZp/9FWTME=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

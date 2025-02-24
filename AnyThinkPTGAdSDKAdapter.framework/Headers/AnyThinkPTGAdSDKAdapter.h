@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "ATPSelfRenderDelegate.h"
 
 //! Project version number for AnyThinkPTGAdSDKAdapter.
 FOUNDATION_EXPORT double AnyThinkPTGAdSDKAdapterVersionNumber;
