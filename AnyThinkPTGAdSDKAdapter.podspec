@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'AnyThinkPTGAdSDKAdapter'
-  s.version      = '1.0.9'
+  s.version      = '1.1.0'
   s.summary      = 'A simple library for FancyAd and AnyThinkPTGAdSDKAdapter.'
   
   s.description  = <<-DESC
@@ -22,6 +22,6 @@ Pod::Spec.new do |s|
     'VALID_ARCHS' =>  valid_archs.join(' '),
   }
   s.dependency 'AnyThinkiOS', '6.4.42'
-  s.dependency 'PTGAdFramework', '2.2.40'
+  s.dependency 'PTGAdFramework', '~> 2.2.40'
   
 end
