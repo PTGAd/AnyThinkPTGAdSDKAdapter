@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.xcconfig = {
     'VALID_ARCHS' =>  valid_archs.join(' '),
   }
-  s.dependency 'AnyThinkiOS', '6.4.42'
-  s.dependency 'PTGAdFramework', '~> 2.2.40'
+  s.dependency 'AnyThinkiOS', '~> 6.4.42'
+  s.dependency 'PTGAdFramework', '~> 2.2.62'
   
 end
