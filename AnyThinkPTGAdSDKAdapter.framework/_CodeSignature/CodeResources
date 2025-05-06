@@ -405,17 +405,13 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Headers/ATPSelfRenderDelegate.h</key>
-		<data>
-		bv2S/dxQjNZaW8z0fC3F7o/FCZ8=
-		</data>
 		<key>Headers/AnyThinkPTGAdSDKAdapter.h</key>
 		<data>
-		mXRJUkk0VOB9R9vLARB1NgSw5f0=
+		h+vR9yUMUk5G9shVtNIEyM21BuE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7emz2NBin97oWJMpcwzQ7tqYgok=
+		eI0l37PoIHv5PPCj43klp859518=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1707,26 +1703,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Headers/ATPSelfRenderDelegate.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bv2S/dxQjNZaW8z0fC3F7o/FCZ8=
-			</data>
-			<key>hash2</key>
-			<data>
-			lgCqIY4UZxrFi53uSfT9jpiUkAgkt984VJDhx+nyIGs=
-			</data>
-		</dict>
 		<key>Headers/AnyThinkPTGAdSDKAdapter.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mXRJUkk0VOB9R9vLARB1NgSw5f0=
+			h+vR9yUMUk5G9shVtNIEyM21BuE=
 			</data>
 			<key>hash2</key>
 			<data>
-			SJkvx/oKjVNHX5zZGA5Jumd+Tnk6chGGAWZp/9FWTME=
+			/ihoWcN+BR9d0B68uDxyR0TG0N493cNpmBBrGOOiHVU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
