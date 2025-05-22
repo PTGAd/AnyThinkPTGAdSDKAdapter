@@ -112,6 +112,10 @@
 		<data>
 		oTaSUaeCtmgKXmuVYKSmBtYB3Nc=
 		</data>
+		<key>AnyThinkSDK.bundle/at_mintegral_logo@3x.png</key>
+		<data>
+		Le7SXAK2fpm7AfGrDjBg+lEzhac=
+		</data>
 		<key>AnyThinkSDK.bundle/at_mt_logo@3x.png</key>
 		<data>
 		Le7SXAK2fpm7AfGrDjBg+lEzhac=
@@ -907,6 +911,17 @@
 			<key>hash2</key>
 			<data>
 			ZDcUHHcgW5+HGnt/JaTKgo2vOSF+tLupTFyQWqi9Wzg=
+			</data>
+		</dict>
+		<key>AnyThinkSDK.bundle/at_mintegral_logo@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Le7SXAK2fpm7AfGrDjBg+lEzhac=
+			</data>
+			<key>hash2</key>
+			<data>
+			8wHTl7Wt2JsN6XaPtceKWSDd5CY7vuNY/3LEL8c9gog=
 			</data>
 		</dict>
 		<key>AnyThinkSDK.bundle/at_mt_logo@3x.png</key>
