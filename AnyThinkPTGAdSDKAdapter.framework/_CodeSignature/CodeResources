@@ -274,11 +274,7 @@
 		</data>
 		<key>AnyThinkSDK.bundle/offer_rock_image.png</key>
 		<data>
-		QKAO4bZGK3gbwBraYT8Lf5oJs+A=
-		</data>
-		<key>AnyThinkSDK.bundle/offer_rock_image_hand.png</key>
-		<data>
-		8orGS1rniPv64zPxeXWGppKrsRo=
+		9NeunYZzQ6hLXRl4FIqovbWWlvI=
 		</data>
 		<key>AnyThinkSDK.bundle/offer_rv_reward_gift@3x.png</key>
 		<data>
@@ -335,7 +331,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gUPwo/PzgGUdloyETIAskhUuI1k=
+		vuDIL+hQpu+SEIHMCaDH3Y043PQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -343,27 +339,7 @@
 		</data>
 		<key>PTGAdSDK.bundle/1</key>
 		<data>
-		tXDaeLQ6ufqpRIG3CFj5wFr/45g=
-		</data>
-		<key>PTGAdSDK.bundle/10</key>
-		<data>
-		vQZQFZNwueJtFb8f7Vh0PJij20Y=
-		</data>
-		<key>PTGAdSDK.bundle/3</key>
-		<data>
-		c4JxGncGiS/hDvXUk1/WiL07A1Y=
-		</data>
-		<key>PTGAdSDK.bundle/4</key>
-		<data>
-		5Xxa6GbvcCKtg5oj8lBDTFeStns=
-		</data>
-		<key>PTGAdSDK.bundle/5</key>
-		<data>
-		LkC7wtJYrewEvtmMhQuLE1Uefbw=
-		</data>
-		<key>PTGAdSDK.bundle/7</key>
-		<data>
-		zBmHFLKn5UwfbDOYCznB8KzNmQc=
+		+SMirA8jTbG51bJJ3yh43FKnyr8=
 		</data>
 		<key>PTGAdSDK.bundle/ad.png</key>
 		<data>
@@ -379,7 +355,7 @@
 		</data>
 		<key>PTGAdSDK.bundle/fancy_logo.png</key>
 		<data>
-		3PzP07xmrQBfUM81H7hqYBBCzFk=
+		wc9VIU2BxWF9Z4F/u9wjVda/qqY=
 		</data>
 		<key>PTGAdSDK.bundle/lace.png</key>
 		<data>
@@ -392,6 +368,10 @@
 		<key>PTGAdSDK.bundle/mute.png</key>
 		<data>
 		DqP8GyPOd5i9JujtWf4z2buWzyo=
+		</data>
+		<key>PTGAdSDK.bundle/play_start.png</key>
+		<data>
+		fwPlb8K26x9Nbxg9owXIZog4LUI=
 		</data>
 		<key>PTGAdSDK.bundle/ptg_icon_shark.png</key>
 		<data>
@@ -1149,22 +1129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QKAO4bZGK3gbwBraYT8Lf5oJs+A=
+			9NeunYZzQ6hLXRl4FIqovbWWlvI=
 			</data>
 			<key>hash2</key>
 			<data>
-			m6oiBLbriP3ynzLTWhJxu0FUXZKkMLKE2raFMbc9qSs=
-			</data>
-		</dict>
-		<key>AnyThinkSDK.bundle/offer_rock_image_hand.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8orGS1rniPv64zPxeXWGppKrsRo=
-			</data>
-			<key>hash2</key>
-			<data>
-			7rwrBZ9POEH1J/GUBNdacKDup8D/4BU5ZwzL6Zsj/Go=
+			GKxwMmv2MfldKKUaZISO8BMTqXVxfbg+RH/jNtDRTTQ=
 			</data>
 		</dict>
 		<key>AnyThinkSDK.bundle/offer_rv_reward_gift@3x.png</key>
@@ -1316,66 +1285,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tXDaeLQ6ufqpRIG3CFj5wFr/45g=
+			+SMirA8jTbG51bJJ3yh43FKnyr8=
 			</data>
 			<key>hash2</key>
 			<data>
-			wWxWJiCL8FHX+6xPtpmpbMZQqKo+pv3Q42ODgA9Vdus=
-			</data>
-		</dict>
-		<key>PTGAdSDK.bundle/10</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vQZQFZNwueJtFb8f7Vh0PJij20Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			7iC6msqMqh981OBZRqg9s5zw6q7Mn22ilIBVQ6yRVZc=
-			</data>
-		</dict>
-		<key>PTGAdSDK.bundle/3</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			c4JxGncGiS/hDvXUk1/WiL07A1Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			C2VHHDAyEmoSzILKSLPoowmECx266OWhkmAjg97SDDQ=
-			</data>
-		</dict>
-		<key>PTGAdSDK.bundle/4</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5Xxa6GbvcCKtg5oj8lBDTFeStns=
-			</data>
-			<key>hash2</key>
-			<data>
-			J/wnzAYuCuluWByJ9bo4mFpE8yCDPc1fgUMY0+QKcGo=
-			</data>
-		</dict>
-		<key>PTGAdSDK.bundle/5</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LkC7wtJYrewEvtmMhQuLE1Uefbw=
-			</data>
-			<key>hash2</key>
-			<data>
-			RfHTQP4v03ad7KqPDt5MDZm7bsoG4OTZcvxygz9CoXw=
-			</data>
-		</dict>
-		<key>PTGAdSDK.bundle/7</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zBmHFLKn5UwfbDOYCznB8KzNmQc=
-			</data>
-			<key>hash2</key>
-			<data>
-			qmLGWFejzW4F5ZvJDghbfOTBCdE3LRQJYQV5V2UHLlM=
+			31Xp8l41kytthUtQtzqGqqUH5vv1cj9XpRyQQ6P2ldk=
 			</data>
 		</dict>
 		<key>PTGAdSDK.bundle/ad.png</key>
@@ -1415,11 +1329,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3PzP07xmrQBfUM81H7hqYBBCzFk=
+			wc9VIU2BxWF9Z4F/u9wjVda/qqY=
 			</data>
 			<key>hash2</key>
 			<data>
-			wO3Loj6nH5JB0x5NAJ4SdXM0Ik0i8nb0PIXiL0BdiDc=
+			QWfJWFfAB2F0eBJwTB4Lcyrbpoh6CSWB/puwRiomGTo=
 			</data>
 		</dict>
 		<key>PTGAdSDK.bundle/lace.png</key>
@@ -1453,6 +1367,17 @@
 			<key>hash2</key>
 			<data>
 			PSP7aVEYh22FIL0iYKlTKl82/gDXdcWqVjcj5Iu11uA=
+			</data>
+		</dict>
+		<key>PTGAdSDK.bundle/play_start.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fwPlb8K26x9Nbxg9owXIZog4LUI=
+			</data>
+			<key>hash2</key>
+			<data>
+			cwVHwChdIC9tY6fKB670Onwx2RHI3SdhJJU2PS2NIyc=
 			</data>
 		</dict>
 		<key>PTGAdSDK.bundle/ptg_icon_shark.png</key>
