@@ -331,15 +331,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vuDIL+hQpu+SEIHMCaDH3Y043PQ=
+		+giMfwYMVQZf92tW/DbEbnnumNU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Zl5FYEPMK2gjNNQ246ilg65J8gk=
-		</data>
-		<key>PTGAdSDK.bundle/1</key>
-		<data>
-		+SMirA8jTbG51bJJ3yh43FKnyr8=
 		</data>
 		<key>PTGAdSDK.bundle/ad.png</key>
 		<data>
@@ -1279,17 +1275,6 @@
 			<key>hash2</key>
 			<data>
 			1J8kWqAZSjiG8txSMTR92CKY7ZBAqjafxXk9JEjwf0A=
-			</data>
-		</dict>
-		<key>PTGAdSDK.bundle/1</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+SMirA8jTbG51bJJ3yh43FKnyr8=
-			</data>
-			<key>hash2</key>
-			<data>
-			31Xp8l41kytthUtQtzqGqqUH5vv1cj9XpRyQQ6P2ldk=
 			</data>
 		</dict>
 		<key>PTGAdSDK.bundle/ad.png</key>
